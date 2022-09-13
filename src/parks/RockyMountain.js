@@ -8,4 +8,5 @@ function elevation() {
   console.log("9583 ft");
 }
 
+// named export syntax:
 export { trees, wildlife };
